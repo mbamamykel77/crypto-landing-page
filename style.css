@@ -45,6 +45,7 @@ body{
 
 .deals p{
     margin-left: 10px;
+    width: 100%;
     font-size: 15px;
     color: white;
 }
@@ -73,7 +74,7 @@ body{
     display: flex;
     margin-top: 20px;
     background-color: rgb(53, 95, 235);
-    width: 65%;
+    width: 55%;
     padding: 5px 10px;
     border-radius: 25px;
     margin-bottom: 10px;
